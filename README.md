@@ -3,6 +3,16 @@ SharePointSaturdayDurahm2014
 
 SharePoint Saturday Durham 2014 - Presentation Code
 
+
+
+Presentation and demo files:
+https://patrickdoran-public.sharepoint.com/Pages/SharePointSaturday/SharePoint-UsingSPServices.aspx
+
+
+
+
+
+
 ```
 <!-- jQuery -->
 <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
